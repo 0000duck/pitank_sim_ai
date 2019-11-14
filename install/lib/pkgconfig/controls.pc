@@ -1,0 +1,8 @@
+prefix=/home/sergio/teste420/install
+
+Name: controls
+Description: Description of controls
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sergio/teste420/install/lib 
+Requires: 

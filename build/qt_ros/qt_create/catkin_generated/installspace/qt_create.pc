@@ -1,0 +1,8 @@
+prefix=/home/sergio/teste420/install
+
+Name: qt_create
+Description: Description of qt_create
+Version: 0.2.10
+Cflags: 
+Libs: -L/home/sergio/teste420/install/lib 
+Requires: 

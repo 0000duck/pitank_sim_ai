@@ -1,0 +1,8 @@
+prefix=/home/sergio/teste420/install
+
+Name: game_engine
+Description: Description of game_engine
+Version: 0.1.0
+Cflags: -I/home/sergio/teste420/install/include
+Libs: -L/home/sergio/teste420/install/lib 
+Requires: message_runtime

@@ -1,0 +1,2 @@
+set(game_engine_MESSAGE_FILES "/home/sergio/teste420/src/game_engine/msg/RobotDescription.msg;/home/sergio/teste420/src/game_engine/msg/RobotDescriptionArray.msg;/home/sergio/teste420/src/game_engine/msg/UIState.msg;/home/sergio/teste420/src/game_engine/msg/ShootAndTurbo.msg;/home/sergio/teste420/src/game_engine/msg/WallInfo.msg;/home/sergio/teste420/src/game_engine/msg/WallInfoArray.msg")
+set(game_engine_SERVICE_FILES "")

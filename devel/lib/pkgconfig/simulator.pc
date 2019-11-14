@@ -1,0 +1,8 @@
+prefix=/home/sergio/teste420/devel
+
+Name: simulator
+Description: Description of simulator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sergio/teste420/devel/lib 
+Requires: 
